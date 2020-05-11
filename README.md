@@ -6,6 +6,6 @@ São fornecidos três rodas nesa aplicação:
 1. localhost:8081/api/localidades/municipios.csv: retorna todos os municípios do Brasil em um arquivo ".csv" (download);
 1. localhost:8081/api/localidades/municipio?nomeCidade=nomeDaCidade: faz uma busca da cidade "nomeDaCidade" e retorna apenas o seu id;
 
-## Como excecutar essa aplicação
+## Como executar a aplicação
 
 [em breve]
