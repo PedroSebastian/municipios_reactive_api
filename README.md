@@ -8,4 +8,6 @@ São fornecidos três rodas nesa aplicação:
 
 ## Como executar a aplicação
 
-[em breve]
+1. Clone este repositório: git clone https://github.com/PedroSebastian/municipios_reactive_api.git
+1. Na raiz do projeto, roda o comando: mvn install
+1. Execute: java -jar target/estados_api-0.0.1-SNAPSHOT.jar
